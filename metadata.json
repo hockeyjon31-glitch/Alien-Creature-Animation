@@ -1,0 +1,6 @@
+{
+  "name": "Chitin Stalker — 2.5D Alien TD Animator",
+  "description": "Interactive 2.5D-3D animated alien crawler enemy walking through a tower defense level and attacking a fortified base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
